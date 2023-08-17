@@ -1,0 +1,16 @@
+D:\Estudo\Basico\Salario\bin\Debug\Salario.exe.config
+D:\Estudo\Basico\Salario\bin\Debug\Salario.exe
+D:\Estudo\Basico\Salario\bin\Debug\Salario.pdb
+D:\Estudo\Basico\Salario\obj\Debug\Salario.csproj.AssemblyReference.cache
+D:\Estudo\Basico\Salario\obj\Debug\Salario.csproj.SuggestedBindingRedirects.cache
+D:\Estudo\Basico\Salario\obj\Debug\Salario.csproj.CoreCompileInputs.cache
+D:\Estudo\Basico\Salario\obj\Debug\Salario.exe
+D:\Estudo\Basico\Salario\obj\Debug\Salario.pdb
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Salario\bin\Debug\Salario.exe.config
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Salario\bin\Debug\Salario.exe
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Salario\bin\Debug\Salario.pdb
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Salario\obj\Debug\Salario.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Salario\obj\Debug\Salario.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Salario\obj\Debug\Salario.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Salario\obj\Debug\Salario.exe
+D:\Cursos\moura\.net-angular-2022-turma05\projetos\Basico\Salario\obj\Debug\Salario.pdb
