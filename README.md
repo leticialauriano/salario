@@ -1,0 +1,2 @@
+# salario
+Programa salário
